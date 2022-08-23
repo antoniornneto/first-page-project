@@ -1,12 +1,26 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+## ✔️ Tecnologias utilizadas
+
+- ``CSS3``
+- ``HTML5``
+
 
 <h1>Page - Home</h1>
 
-![image](https://user-images.githubusercontent.com/109702318/186251518-da31aea7-99f2-4cfa-a6f6-d00a7b92e752.png)
-![image](https://user-images.githubusercontent.com/109702318/186251649-5d7cc360-9610-44ec-935c-ab7176852935.png)
-![image](https://user-images.githubusercontent.com/109702318/186251796-926d1afa-ebf6-48c3-9293-c07fcaf499d0.png)
+- HEADER
+![image](https://user-images.githubusercontent.com/109702318/186253081-6419b4a9-17d7-4c73-bb2f-69db43fec958.png)
+![image](https://user-images.githubusercontent.com/109702318/186252788-0d83c01e-70b1-48c7-a997-081de7d50e7b.png)
+- MAIN
+![image](https://user-images.githubusercontent.com/109702318/186252808-c73806f3-f307-4cd3-b1a2-b24129dcd3fd.png)
+![image](https://user-images.githubusercontent.com/109702318/186252822-478155ad-9a98-4882-acf2-49f031587d0f.png)
+- FOOTER
+![image](https://user-images.githubusercontent.com/109702318/186252858-085e5094-0a93-4918-953f-75135191a30c.png)
 
 <h1>Page - Produtos</h1>
 
-![image](https://user-images.githubusercontent.com/109702318/186252066-9500a973-f694-4c61-99c8-4697917f3021.png)
-![image](https://user-images.githubusercontent.com/109702318/186252273-4d70e86a-2a45-4407-ad7c-abcdb57aae7d.png)
+- HEADER
+![image](https://user-images.githubusercontent.com/109702318/186252929-55a539de-a4e2-4fea-b84f-2a09384c3cf0.png)
+- MAIN
+![image](https://user-images.githubusercontent.com/109702318/186252960-fef31d8c-d99b-4c57-aca8-92572ea032a3.png)
+- FOOTER
+![image](https://user-images.githubusercontent.com/109702318/186252975-dc4007ec-dfa4-4d55-a73e-487b86a5da0b.png)
