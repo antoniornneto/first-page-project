@@ -15,7 +15,7 @@
 
 <h1>Page - Produtos</h1>
 
-![image](https://user-images.githubusercontent.com/109702318/186252929-55a539de-a4e2-4fea-b84f-2a09384c3cf0.png)
+![image](https://user-images.githubusercontent.com/109702318/186492375-bf5a00da-776d-46f5-9fe1-f5b62d906e21.png)
 ![image](https://user-images.githubusercontent.com/109702318/186252960-fef31d8c-d99b-4c57-aca8-92572ea032a3.png)
 ![image](https://user-images.githubusercontent.com/109702318/186252975-dc4007ec-dfa4-4d55-a73e-487b86a5da0b.png)
 
