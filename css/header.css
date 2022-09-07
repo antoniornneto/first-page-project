@@ -1,0 +1,35 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+.caixa {
+	align-items: center;
+	display: flex;
+	justify-content: space-between;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav ul{
+	display: flex;
+	gap: 15px;
+}
+
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}

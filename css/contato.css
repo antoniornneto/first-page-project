@@ -1,0 +1,67 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 980px;
+}
+
+.form-principal {
+    margin-top: 40px;
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+textarea {
+    height: 150px;
+}
+
+.enviar {
+    width: 40%;
+    margin: 20px;
+    margin-left: 67px;
+    padding: 20px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 0.5s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: rgb(186, 102, 0);
+    color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: black;
+    transform: scale(1.1);
+}
+
+table {
+    margin: 20px 0 40px 110px;
+    max-width: 300px;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}

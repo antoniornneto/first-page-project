@@ -1,0 +1,176 @@
+@media screen and (min-width: 0) {
+    .caixa {
+        flex-direction: column;
+        gap: 15px;
+        width: auto;
+    }
+
+    nav a {
+        font-size: 1rem;
+    }
+
+    /* Settings Home-page */
+    .principal {
+        margin: 0 .65rem;
+        width: auto;
+    }
+
+    .mapa-conteudo {
+        margin: 0 .65rem;
+        width: auto;
+    }
+
+    .conteudo-beneficio {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        width: auto;
+    }
+
+    .lista-beneficios {
+        width: auto;
+    }
+
+    .imagem-beneficios {
+        width: 95vw;
+        max-width: 400px;
+    }
+
+    .video {
+        width: 100vw;
+        max-width: 560px;
+    }
+
+    /* Settings Products-Page */
+    .produtos {
+        gap: 10px
+    }
+
+    .produtos ul {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        width: auto;
+    }
+
+    .produtos li {
+        width: 95vw;
+        max-width: 320px;
+    }
+
+    /* Settings Contact-Page */
+    #main {
+        margin: 0 10px;
+        width: auto;
+    }
+
+    .form-principal {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .input-padrao {
+        width: auto;
+        max-width: 500px;
+    }
+
+    .form-secundario {
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        margin-top: 20px;
+    }
+
+    .enviar {
+        margin: 5px auto;
+        width: 300px;
+    }
+
+    table {
+        margin: 30px auto;
+        width: 230px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .caixa {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    nav a {
+        font-size: 1.2rem;
+    }
+
+    .conteudo-beneficio {
+        flex-direction: row;
+        width: 640px;
+        margin: 0 auto;
+    }
+
+    /* Settings Products-Page */
+    .produtos {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .conteudo-beneficio {
+        justify-content: center;
+        width: 980px;
+    }
+
+    .video {
+        max-width: 700px;
+    }
+
+    /* Settings Products-Page */
+    .produtos {
+        width: 980px;
+    }
+
+    /* Settings Contact-Page */
+    #main {
+        align-items: center;
+    }
+
+    .form-principal {
+        margin: 20px auto;
+        width: 500px;
+    }
+
+    .form-secundario {
+        margin: 0;
+    }
+
+    .enviar {
+        margin: auto 0;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .conteudo-beneficio {
+        justify-content: space-around;
+    }
+
+    /* Settings Products-Page */
+    .produtos {
+        width: 1200px;
+    }
+
+    /* Settings Contact-Page */
+    #main {
+        align-items: flex-start;
+        margin: 0 auto;
+        width: 980px;
+    }
+
+    .form-principal {
+        margin: 20px auto;
+        width: 980px;
+    }
+
+}

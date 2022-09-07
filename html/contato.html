@@ -5,9 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contato - Barbearia Alura</title>
-    <link rel="stylesheet" href="../reset.css">
-    <link rel="stylesheet" href="./style-contato.css">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="../css/reset.css">
+	<link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/contato.css">
+	<link rel="stylesheet" href="../css/footer.css">
+	<link rel="stylesheet" href="../css/style-responsive.css">
 </head>
 
 <body>
@@ -17,15 +20,15 @@
 
             <nav>
                 <ul class="navegacao">
-					<li><a href="/1.page-home/index.html">Home</a></li>
-					<li><a href="/2.page-produtos/produtos.html">Produtos</a></li>
+					<li><a href="./home.html">Home</a></li>
+					<li><a href="./produtos.html">Produtos</a></li>
 					<li><a href="./contato.html">Contatos</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-    <main>
+    <main id="main">
         <div id="form-div">
             <form class="form-principal">
                 <label for="nomesobrenome">Nome e Sobrenome</label>
@@ -41,7 +44,7 @@
                 <textarea id="mensagem" class="input-padrao" required></textarea>
             </form>
         </div>
-        <form  action="">
+        <form class="form-secundario" action="">
 
             <fieldset>
                 <legend>Como prefere o nosso contato?</legend>
