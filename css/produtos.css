@@ -24,6 +24,7 @@
 
 .produtos li:hover {
     color: #C78C19;
+    cursor: pointer;
 }
 
 .produtos li:active {

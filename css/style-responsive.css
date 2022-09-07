@@ -1,4 +1,7 @@
 @media screen and (min-width: 0) {
+    #main-body {
+        background-color: #FEFEFE;
+    }
     .caixa {
         flex-direction: column;
         gap: 15px;
@@ -38,13 +41,14 @@
     }
 
     .video {
-        width: 100vw;
+        width: 90vw;
         max-width: 560px;
     }
 
     /* Settings Products-Page */
     .produtos {
-        gap: 10px
+        gap: 10px;
+        margin: 0 auto;
     }
 
     .produtos ul {
@@ -55,7 +59,7 @@
     }
 
     .produtos li {
-        width: 95vw;
+        width: 90vw;
         max-width: 320px;
     }
 
@@ -84,7 +88,7 @@
 
     .enviar {
         margin: 5px auto;
-        width: 300px;
+        width: 270px;
     }
 
     table {
