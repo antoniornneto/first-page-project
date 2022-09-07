@@ -8,6 +8,8 @@ Projeto criado após a realização dos cursos de HTML5 e CSS3 do Alura. Após o
 
 Segue abaixo alguns prints para breve visualização:
 
+>HOME - PAGE
+
 ![image](https://user-images.githubusercontent.com/109702318/188928358-e81f75e0-514b-432c-8f0d-a94ef3f77b1d.png)
 ![image](https://user-images.githubusercontent.com/109702318/188928390-c3816508-4d1d-4dd2-b53f-c46db5b35544.png)
 ![image](https://user-images.githubusercontent.com/109702318/188928494-5f6ecfcf-80fa-4fce-9657-a6ae1bcb3edc.png)
