@@ -12,10 +12,6 @@ Segue abaixo alguns prints para breve visualização:
 
 ![gif](https://media2.giphy.com/media/KUnvQaZh5UYX7ZwnZM/giphy.gif?cid=790b76117b72939117aad36d110ef763e874b85dac9048f2&rid=giphy.gif&ct=g)
 
->HOME - PAGE
+>Full Page
 
-![image](https://user-images.githubusercontent.com/109702318/188928358-e81f75e0-514b-432c-8f0d-a94ef3f77b1d.png)
-![image](https://user-images.githubusercontent.com/109702318/188928390-c3816508-4d1d-4dd2-b53f-c46db5b35544.png)
-![image](https://user-images.githubusercontent.com/109702318/188928494-5f6ecfcf-80fa-4fce-9657-a6ae1bcb3edc.png)
-![image](https://user-images.githubusercontent.com/109702318/188928534-c5532895-b0ab-49bf-afdc-8eaca93f0d53.png)
-![image](https://user-images.githubusercontent.com/109702318/188928575-25a7f776-ce66-47f1-ad5d-a443ea6ba495.png)
+![gif](https://media1.giphy.com/media/v6Hyj9O2oF8u9Zg9HK/giphy.gif?cid=790b7611e003e13ceba21956044fdd7fc957391500f4db66&rid=giphy.gif&ct=g)
