@@ -8,7 +8,8 @@ Projeto criado após a realização dos cursos de HTML5 e CSS3 do Alura. Após o
 
 Segue abaixo alguns prints para breve visualização:
 
->Site Responsivo para mobile
+>Site Responsivo para mobile:
+
 ![gif](https://media2.giphy.com/media/KUnvQaZh5UYX7ZwnZM/giphy.gif?cid=790b76117b72939117aad36d110ef763e874b85dac9048f2&rid=giphy.gif&ct=g)
 
 >HOME - PAGE
