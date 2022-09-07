@@ -15,3 +15,5 @@ Segue abaixo alguns prints para breve visualização:
 ![image](https://user-images.githubusercontent.com/109702318/188928494-5f6ecfcf-80fa-4fce-9657-a6ae1bcb3edc.png)
 ![image](https://user-images.githubusercontent.com/109702318/188928534-c5532895-b0ab-49bf-afdc-8eaca93f0d53.png)
 ![image](https://user-images.githubusercontent.com/109702318/188928575-25a7f776-ce66-47f1-ad5d-a443ea6ba495.png)
+
+![gif](https://media2.giphy.com/media/KUnvQaZh5UYX7ZwnZM/giphy.gif?cid=790b76117b72939117aad36d110ef763e874b85dac9048f2&rid=giphy.gif&ct=g)
